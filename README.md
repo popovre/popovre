@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @popovre
+- 👀 I’m interested in web programming, learning and being happy!
+- 🌱 I’m currently learning js.
+- 📫 How to reach me? My e-mail: popov.roman.e@gmail.com
