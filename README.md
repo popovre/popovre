@@ -2,5 +2,5 @@
 -  At the moment i’m interested in web development.
 -  Leetcode profile is here: https://leetcode.com/popovre.
 -  I’m currently working with react, redux-toolkit, typescript, js, html&css, SCSS&SASS.
--  How to reach me? My e-mail: popov.roman.e@gmail.com
+-  How to reach me? My e-mail: popov.roman.e@gmail.com.
   
